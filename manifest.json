@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "OpenSea URL Extractor",
+  "description": "OpenSeaの画像と動画のURLを抽出する拡張機能です",
+  "version": "1.0.0",
+  "action": {
+    "default_icon": {
+      "128": "icon.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
